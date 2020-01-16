@@ -27,5 +27,7 @@ pprint(vegetables_by_color)
 
 
 #Output vegtables_by_color into a json called vegtables_by_color.json.
+with open("vegetables_by_color.json", "w") as f:
+	json.dump(vegetables_by_color, f)
 
 
