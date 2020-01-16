@@ -1,4 +1,4 @@
-#Working with Adam Staveski and Leah Nakaima
+#By Rees Sweeney-Taylor, Adam Staveski and Leah Nakaima
 
 from datetime import datetime
 
